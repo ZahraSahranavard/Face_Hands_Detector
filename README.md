@@ -1,5 +1,5 @@
 # Face_Hands_Detector
-This project is a face and hand recognition program developed using OpenCV, which has become my favorite library! 😃
+This project is a face and hand recognition program developed using OpenCV, which has become my favorite library!😃👐🏻
 
 # Overview
 This program demonstrates the capabilities of OpenCV in face and hand detection. It can serve as a solid foundation for more advanced projects with additional features and functionalities.
